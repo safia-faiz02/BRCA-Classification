@@ -95,3 +95,7 @@ At threshold 0.5:
 
 ---
 
+✅ **Final Verdict**:  
+For purely statistical performance, the baseline model has a marginal edge in ROC-AUC and precision.  
+But for **clinical applications** where recall (catching more true positives) is critical, the **imbalance-handled model is the better choice**.
+
